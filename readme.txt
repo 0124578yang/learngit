@@ -1,3 +1,4 @@
 git is best
 i love
-i wang to do
+i like
+hate
